@@ -8,10 +8,10 @@
 
 <h3 align="left">Departments:</h3>
 <p align="left">
-  Angular
-  .NET
-  Design
-  Devops
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="15" height="15"/>  Angular
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="15" height="15"/>  .NET
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="15" height="15"/>  Design
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="15" height="15"/>  Devops
 </p>
 
 
